@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: e7edaf6c2497a3e46a109ddfc675f34c
+  - enabled: 1
+    path: Assets/Scenes/GameSelection.unity
+    guid: 4beeef630c3bb23428f5ad2b6a5c9b53
+  - enabled: 1
+    path: Assets/Scenes/Math_Addition.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/DragGame.unity
+    guid: ededd3481b00f4f4f81cb0565de46613
+  - enabled: 1
+    path: Assets/Scenes/Math_Substraction.unity
+    guid: 5377eb1d3ad51a84c93864fa0df92fff
   m_configObjects: {}
